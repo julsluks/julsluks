@@ -45,12 +45,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-# 🏆 Logros GitHub:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Julsluks&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-# 🎵 Escuchando en Spotify:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=julievillegas77&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/julievillegas77)
-
 # 📊 Estadísticas GitHub:
 <div align="center">
 
@@ -59,14 +53,26 @@
 ![](https://github-readme-stats.vercel.app/api?username=Julsluks&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julsluks&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Snake animation](https://github.com/Julsluks/Julsluks/blob/output/github-contribution-grid-snake.svg)
-![Pacman animation](https://raw.githubusercontent.com/Julsluks/Julsluks/main/github-contribution-grid-snake.gif)
-
 </div>
 
 # 📌 Proyectos Destacados:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Julsluks&repo=REPO_DESTACADO_1&theme=radical)](https://github.com/Julsluks/REPO_DESTACADO_1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Julsluks&repo=REPO_DESTACADO_2&theme=radical)](https://github.com/Julsluks/REPO_DESTACADO_2)
+<div align="center">
+
+## 🏆 Conexus Hub - Plataforma Educativa Integral (Proyecto Final DAM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inspedralbes&repo=prj-final-front-back-g1-conexus&theme=radical&show_owner=true)](https://github.com/inspedralbes/prj-final-front-back-g1-conexus)
+**Equipo:** Sara Martínez, Rubén Lora, Julie Villegas, Eric Gómez  
+**Tecnologías:** Vue.js, Node.js, Express, MySQL, MongoDB, Docker  
+**Descripción:** Plataforma educativa integral con gestión académica, comunicación en tiempo real, reservas de espacios y sistema de cantina.  
+**En producción:** [https://www.conexushub.cat](https://www.conexushub.cat)
+
+## 🎓 Chromatic Bond (Proyecto Final DAW)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inspedralbes&repo=prj-final-trfinal_g4&theme=radical&show_owner=true)](https://github.com/inspedralbes/prj-final-trfinal_g4)
+**Equipo:** Sara Martínez, Rubén Lora, Julie Villegas, Eric Gómez, Fabian Roldan 
+**Tecnologías:** Laravel, Next.js, TailwindCSS  
+**Descripción:** Juego de puzzles colaborativo que combina estrategia y coordinación entre jugadores.  
+**En producción:** [https://chromaticbond.cat/](https://chromaticbond.cat/)
+
+</div>
 
 # 👀 Visitas al perfil:
 ![Visitor Count](https://profile-counter.glitch.me/Julsluks/count.svg)
