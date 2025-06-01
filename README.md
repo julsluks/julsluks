@@ -13,6 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/julievill21) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/julievillegas77) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:julievillegas77@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/julievillegas77)
 
 # 💻 Stack Tecnológico:
 ### Lenguajes:
@@ -44,11 +45,28 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
+# 🏆 Logros GitHub:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Julsluks&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+# 🎵 Escuchando en Spotify:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=julievillegas77&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/julievillegas77)
+
 # 📊 Estadísticas GitHub:
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Julsluks&theme=radical&border_radius=4.6)](https://git.io/streak-stats)
+
 ![](https://github-readme-stats.vercel.app/api?username=Julsluks&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Julsluks&theme=gruvbox&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julsluks&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Snake animation](https://github.com/Julsluks/Julsluks/blob/output/github-contribution-grid-snake.svg)
+![Pacman animation](https://raw.githubusercontent.com/Julsluks/Julsluks/main/github-contribution-grid-snake.gif)
+
 </div>
+
+# 📌 Proyectos Destacados:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Julsluks&repo=REPO_DESTACADO_1&theme=radical)](https://github.com/Julsluks/REPO_DESTACADO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Julsluks&repo=REPO_DESTACADO_2&theme=radical)](https://github.com/Julsluks/REPO_DESTACADO_2)
+
+# 👀 Visitas al perfil:
+![Visitor Count](https://profile-counter.glitch.me/Julsluks/count.svg)
