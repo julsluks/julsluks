@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 Sobre Mí:
 ¡Hola! 👋 Soy Julie Villegas, una apasionada desarrolladora especializada en aplicaciones web y multiplataforma. Mi objetivo es crear soluciones tecnológicas que sean funcionales, accesibles y ofrezcan una excelente experiencia de usuario.
 
@@ -46,20 +47,18 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 # 📊 Estadísticas GitHub:
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Julsluks&theme=radical&border_radius=4.6)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api?username=Julsluks&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julsluks&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
-
 # 📌 Proyectos Destacados:
-<div align="center">
 
 ## 🏆 Conexus Hub - Plataforma Educativa Integral (Proyecto Final DAM)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inspedralbes&repo=prj-final-front-back-g1-conexus&theme=radical&show_owner=true)](https://github.com/inspedralbes/prj-final-front-back-g1-conexus)
+
 **Equipo:** Sara Martínez, Rubén Lora, Julie Villegas, Eric Gómez  
 **Tecnologías:** Vue.js, Node.js, Express, MySQL, MongoDB, Docker  
 **Descripción:** Plataforma educativa integral con gestión académica, comunicación en tiempo real, reservas de espacios y sistema de cantina.  
@@ -67,12 +66,13 @@
 
 ## 🎓 Chromatic Bond (Proyecto Final DAW)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inspedralbes&repo=prj-final-trfinal_g4&theme=radical&show_owner=true)](https://github.com/inspedralbes/prj-final-trfinal_g4)
+
 **Equipo:** Sara Martínez, Rubén Lora, Julie Villegas, Eric Gómez, Fabian Roldan 
 **Tecnologías:** Laravel, Next.js, TailwindCSS  
 **Descripción:** Juego de puzzles colaborativo que combina estrategia y coordinación entre jugadores.  
 **En producción:** [https://chromaticbond.cat/](https://chromaticbond.cat/)
 
-</div>
-
 # 👀 Visitas al perfil:
 ![Visitor Count](https://profile-counter.glitch.me/Julsluks/count.svg)
+
+</div>
