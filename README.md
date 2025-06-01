@@ -1,4 +1,5 @@
 <div align="center">
+  
 # 💫 Sobre Mí:
 ¡Hola! 👋 Soy Julie Villegas, una apasionada desarrolladora especializada en aplicaciones web y multiplataforma. Mi objetivo es crear soluciones tecnológicas que sean funcionales, accesibles y ofrezcan una excelente experiencia de usuario.
 
