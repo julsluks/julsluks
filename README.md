@@ -121,7 +121,7 @@ Actualmente buscando oportunidades para aportar mis **4 años de experiencia** e
 ![Visitor Count](https://profile-counter.glitch.me/Julsluks/count.svg)
 
 🔍 Actualmente buscando nuevas oportunidades como **Desarrolladora Full-Stack**  
-💌 Contacto directo: [julievillegas77@gmail.com](mailto:julievillegas77@gmail.com)  
+💌 Contacto directo: [julievillegas77@gmail.com](mailto:julievill77@gmail.com)  
 📍 Disponible para modalidad **presencial**, **remota** e **híbrida (Barcelona)**
 
 </div>
