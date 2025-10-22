@@ -5,7 +5,7 @@
 ### Desarrolladora Full-Stack | Líder Técnico | En búsqueda de nuevos retos profesionales
 
 Apasionada por crear soluciones tecnológicas **funcionales, accesibles** y con **experiencia de usuario excepcional**.  
-Actualmente buscando oportunidades para aportar mis **4 años de experiencia** en desarrollo web y liderazgo de equipos.  
+Actualmente buscando oportunidades para aportar mis aproximadamente **2 años de experiencia** en desarrollo web y liderazgo de pequeños equipos.  
 
 🔹 **Especialidades:** Vue.js, Node.js, Arquitectura de Software  
 🔹 **Metodologías:** Scrum, Kanban, Pair Programming  
