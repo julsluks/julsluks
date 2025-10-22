@@ -13,7 +13,7 @@ Actualmente buscando oportunidades para aportar mis aproximadamente **2 años de
 
 *"Me encanta transformar ideas complejas en productos intuitivos que marquen diferencia"*
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-%230A0A0A?style=for-the-badge&logo=CodeSandbox&logoColor=white)](https://www.julievill.dev/)
+[![Portafolio](https://img.shields.io/badge/🌐%20Portafolio-1E90FF?style=for-the-badge)](https://www.julievill.dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/julievill21) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/julievillegas77) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:julievillegas77@gmail.com)
