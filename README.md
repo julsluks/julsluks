@@ -72,18 +72,6 @@ Actualmente buscando oportunidades para aportar mis aproximadamente **2 años de
 
 ---
 
-## 📊 Estadísticas GitHub
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julsluks&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=Julsluks&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
-
-</div>
-
----
-
 ## 🚀 Proyectos Destacados
 
 <div align="center">
