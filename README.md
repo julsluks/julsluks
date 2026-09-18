@@ -46,14 +46,18 @@ Idiomas: **ES** · **EN** · **CA**
 Site en producción (Next.js, React, TypeScript, i18n es/en/ca). Pieza actual de craft y producto.
 
 ### Conexus Hub — Plataforma educativa
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inspedralbes&repo=prj-final-front-back-g1-conexus&theme=transparent&show_owner=true)](https://github.com/inspedralbes/prj-final-front-back-g1-conexus)
+<a href="https://github.com/inspedralbes/prj-final-front-back-g1-conexus">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=inspedralbes&repo=prj-final-front-back-g1-conexus&theme=transparent&show_owner=true" alt="Conexus Hub" />
+</a>
 
 **Rol:** líder técnico frontend (equipo de 4)  
 Arquitectura Vue.js, JWT para usuarios a escala, despliegue con Docker.  
 **Stack:** Vue.js · Node.js · MongoDB · Firebase · MySQL · **Live:** [conexushub.cat](https://www.conexushub.cat)
 
 ### Chromatic Bond — Juego web de color
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inspedralbes&repo=prj-final-trfinal_g4&theme=transparent&show_owner=true)](https://github.com/inspedralbes/prj-final-trfinal_g4)
+<a href="https://github.com/inspedralbes/prj-final-trfinal_g4">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=inspedralbes&repo=prj-final-trfinal_g4&theme=transparent&show_owner=true" alt="Chromatic Bond" />
+</a>
 
 **Rol:** co-líder (equipo de 5)  
 API REST con Laravel, mentoría a juniors, foco en rendimiento.  
@@ -66,20 +70,19 @@ Juego de plataformas cooperativo (dos jugadores, coordinación precisa).
 
 ---
 
-## Stack (core)
+## Stack
 
-`React` · `Next.js` · `Vue.js` · `TypeScript` · `Laravel` · `Livewire` · `SQL` / `MySQL` · `Docker`
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,tailwind,laravel,php,nodejs,mysql,mongodb,docker,git,github,figma" alt="Stack: React, Next.js, Vue, TypeScript, JavaScript, Tailwind, Laravel, PHP, Node.js, MySQL, MongoDB, Docker, Git, GitHub, Figma" />
+</div>
 
-También: Node.js, PHP, Tailwind, MongoDB, Git, Figma, Jira
+También: Livewire · SQL · Jira · Cloudflare · Herd
 
 ---
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=julsluks&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/julsluks)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julsluks&layout=compact&theme=transparent&hide_border=true)](https://github.com/julsluks)
-
 ## Contacto
+
+<div align="center">
 
 Trabajo a jornada completa — escucho propuestas con encaje claro.  
 💌 [julievill77@gmail.com](mailto:julievill77@gmail.com) · 🌐 [julievill.dev](https://julievill.dev) · 📍 Barcelona
